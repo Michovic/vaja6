@@ -12,4 +12,3 @@ while True:
             lower = True
         if char >= "0" and char <= "9":
             number = True
-
